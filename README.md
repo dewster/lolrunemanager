@@ -2,14 +2,14 @@
 
 https://dewster.hu/lolrunehero/
 
-hu: http:\dewster.hu\lolrunehero\lolrunehero_hun.exe
+hu: http:\\dewster.hu\lolrunehero\lolrunehero_hun.exe
 
-gb:  http:\dewster.hu\lolrunehero\lolrunehero_en.exe
+gb:  http:\\dewster.hu\lolrunehero\lolrunehero_en.exe
 
-it:  http:\dewster.hu\lolrunehero\lolrunehero_it.exe
+it:  http:\\dewster.hu\lolrunehero\lolrunehero_it.exe
 
-fr: http:\dewster.hu\lolrunehero\lolrunehero_fr.exe
+fr: http:\\dewster.hu\lolrunehero\lolrunehero_fr.exe
 
-br: http:\dewster.hu\lolrunehero\lolrunehero_pt.exe
+br: http:\\dewster.hu\lolrunehero\lolrunehero_pt.exe
 
 
